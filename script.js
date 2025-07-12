@@ -1,3 +1,5 @@
+"use strict";
+
 let numberOfFilms = +prompt("Сколько фильмов ты посмотрел?", '')
 
 let personalMovieDB = {
